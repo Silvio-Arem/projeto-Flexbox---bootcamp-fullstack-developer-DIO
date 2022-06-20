@@ -1,4 +1,4 @@
-# Projeto-Flexbox-Bootcamp-Fullstack-Developer-DIO
+# Projeto Flexbox Bootcamp Fullstack Developer DIO
 
 ### Guia de utilização:
 
